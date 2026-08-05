@@ -1,7 +1,8 @@
 // OPERATORS
 
 
-// 1. Arithmetic Operators
+
+//// 1. Arithmetic Operators
 // Addition (+)
 // let a = 10;
 // let b = 5;
@@ -18,8 +19,7 @@
 // let product = a * b; // product is 50
 // console.log("Multiplication: " + product);
 
-// // Division (/)
-// let quotient = a / b; // quotient is 2
+// // Division (/) let quotient = a / b; // quotient is 2
 // console.log("Division: " + quotient);
 
 // // Modulus (%)

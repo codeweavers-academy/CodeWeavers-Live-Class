@@ -77,7 +77,7 @@ Comparison
 Logical
 
 
-Tomorrow
+Today
 
 Comparison
 
