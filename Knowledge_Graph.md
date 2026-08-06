@@ -60,8 +60,6 @@ typeof Operator
 
 ↓
 
-TODAY
-
 Operators
 
 ↓
@@ -76,19 +74,36 @@ Comparison
 
 Logical
 
-
-Today
-
-Comparison
-
-↓
-
-Logical Thinking
-
 ↓
 
 Decision Making
 
 ↓
 
-if / else
+if / else -> if else if else
+
+TODAY
+
+switch
+
+↓
+
+Loops
+
+↓
+
+while
+
+↓
+
+Tomorrow
+
+do...while
+
+↓
+
+for Loop
+
+↓
+
+Iterators
