@@ -82,7 +82,7 @@ Decision Making
 
 if / else -> if else if else
 
-TODAY
+↓
 
 switch
 
@@ -96,7 +96,7 @@ while
 
 ↓
 
-Tomorrow
+TODAY
 
 do...while
 
@@ -106,4 +106,22 @@ for Loop
 
 ↓
 
+break
+
+↓
+
+continue
+
+↓
+
+Nested Loop
+
+↓
+
 Iterators
+
+↓
+
+Today
+
+Functions
