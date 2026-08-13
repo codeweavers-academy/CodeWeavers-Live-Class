@@ -122,6 +122,16 @@ Iterators
 
 ↓
 
-Today
+Introduction of Functions
 
-Functions
+↓
+
+Functions Expressions
+
+↓
+
+Arrow Function
+
+↓
+
+Introduction to Scope
