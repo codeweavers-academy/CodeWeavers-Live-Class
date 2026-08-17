@@ -122,16 +122,38 @@ Iterators
 
 ↓
 
-Introduction of Functions
-
-↓
-
-Functions Expressions
-
-↓
-
-Arrow Function
-
-↓
-
-Introduction to Scope
+DAY 09
+Functions
+   │
+   ▼
+DAY 10
+Function Expressions
+Arrow Functions
+Functions as Values
+   │
+   ▼
+Scope Introduction
+   │
+   ▼
+DAY 11
+Scope
+   │
+   ├── Global Scope
+   │
+   ├── Function Scope
+   │
+   ├── Block Scope
+   │
+   └── Nested Scope
+           │
+           ▼
+      Lexical Scope
+           │
+           ▼
+       Scope Chain
+           │
+           ▼
+       Shadowing
+           │
+           ▼
+      Variable Lookup
