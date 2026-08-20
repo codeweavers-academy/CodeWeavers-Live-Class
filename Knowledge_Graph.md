@@ -158,7 +158,7 @@ Scope
            ▼
       Variable Lookup
 
-Today - Day 13
+Day 13
 
 Arrays
    ↓
@@ -167,3 +167,7 @@ Indexing
 Traversal
    ↓
 Processing Collections
+
+Day 14 - Today
+
+Objects
