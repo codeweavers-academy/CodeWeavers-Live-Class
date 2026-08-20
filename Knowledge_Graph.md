@@ -157,3 +157,13 @@ Scope
            │
            ▼
       Variable Lookup
+
+Today - Day 13
+
+Arrays
+   ↓
+Indexing
+   ↓
+Traversal
+   ↓
+Processing Collections
