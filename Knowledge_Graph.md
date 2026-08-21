@@ -168,6 +168,19 @@ Traversal
    ↓
 Processing Collections
 
-Day 14 - Today
-
+Day 14
+   ↓
 Objects
+   ↓
+JAVASCRIPT EXECUTION MODEL   ← Today - Day 15
+
+   ↓
+
+Day 16
+Objects + Arrays Integration
+   ↓
+Callbacks / Higher-Order Functions
+   ↓
+Closures
+   ↓
+Classes
